@@ -1,0 +1,5 @@
+baseurl = "https://bebna.github.io/"
+title = "My New Hugo Site"
+languageCode = "en-us"
+publishdir = "public"
+theme = "base16"
